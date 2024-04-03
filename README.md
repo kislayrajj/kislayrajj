@@ -6,10 +6,10 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 
 ## Skills
 HTML, CSS, JavaScript, React.js, Tailwind CSS, jQuery, Jira..
-
+       
 ## Get in Touch
 
--💬 LinkedIn:[kislayrajj](https://www.instagram.com/kislayrajj) (link)
+-💬 LinkedIn:[kislayrajj](https://www.instagram.com/kislayrajj) 
 -💬 Email:[kislayrajj](kislayraj751@gmail.com)
 -💬 Insta:[kislayrajj](https://www.instagram.com/kislayrajj)
 
