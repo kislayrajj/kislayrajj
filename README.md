@@ -1,4 +1,4 @@
-# [Your Name]
+# Kislay Raj
 
 ## About Me
 
@@ -9,9 +9,9 @@ HTML, CSS, JavaScript, React.js, Tailwind CSS, jQuery, Jira..
 
 ## Get in Touch
 
--💬 LinkedIn:https://www.instagram.com/kislayrajj
--💬 Email:kislayraj751@gmail.com
--💬 Insta:https://www.instagram.com/kislayrajj
+-💬 LinkedIn:[kislayrajj](https://www.instagram.com/kislayrajj) (link)
+-💬 Email:[kislayrajj](kislayraj751@gmail.com)
+-💬 Insta:[kislayrajj](https://www.instagram.com/kislayrajj)
 
 ⚡Feel free to reach out if you have any questions or would like to collaborate on a project!
 
