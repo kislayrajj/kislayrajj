@@ -1,39 +1,24 @@
-# Kislay Raj 🧑‍🦱
+# Kislay Raj 🧑‍💻
 
-## About Me
+![Header](https://raw.githubusercontent.com/your-username/your-repo-name/master/header.gif)
 
 Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating amazing user experiences. I specialize in Web Development.
 
-## Skills
-HTML, CSS, JavaScript, React.js, Tailwind CSS, jQuery, Jira..
-       
-## Get in Touch
+## 🛠️ Skills
 
--💬 LinkedIn:[kislayrajj](https://www.instagram.com/kislayrajj) 
--💬 Email:[kislayrajj](kislayraj751@gmail.com)
--💬 Insta:[kislayrajj](https://www.instagram.com/kislayrajj)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/-ShadCN-38B2AC?style=for-the-badge&logo=shadcn&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-⚡Feel free to reach out if you have any questions or would like to collaborate on a project!
+## 📬 Get in Touch
 
-<!--
-**kislayrajj/kislayrajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kislayrajj)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kislayraj751@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kislayrajj)
 
-## Projects
-
-Here are a few projects I've worked on:
-
-- [M](link): Brief description of the project.
-- [Project Name](link): Brief description of the project.
-- [Project Name](link): Brief description of the project
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Portfolio: [Your Portfolio Website](link)
--->
+⚡ Feel free to reach out if you have any questions or would like to collaborate on a project!
