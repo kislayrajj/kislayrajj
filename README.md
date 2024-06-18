@@ -26,8 +26,24 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 
 ---
 
-<svg viewBox="0 0 100 100">
-  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="white" />
-  <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em">Web Dev</text>
-</svg>
+<div>
+  <svg viewBox="0 0 128 128" width="128" height="128">
+    <path fill="#5A45FF" d="M64 0L128 96H0z"/>
+    <path fill="#FFFFFF" d="M82.286 96l-20.571-32-20.571 32z"/>
+  </svg>
+</div>
 
+#### Web Development SVG
+<div>
+  <svg viewBox="0 0 100 100" width="100" height="100">
+    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="white" />
+    <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="2px" dy=".3em">Web Dev</text>
+  </svg>
+</div>
+
+#### Star SVG
+<div>
+  <svg height="210" width="400">
+    <polygon points="200,10 250,190 160,210" style="fill:lime;stroke:purple;stroke-width:1" />
+  </svg>
+</div>
