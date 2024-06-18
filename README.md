@@ -1,8 +1,6 @@
 # Kislay Raj 🧑‍💻
 
-[![Header](https://raw.githubusercontent.com/your-username/your-repo-name/master/path/to/header.gif)](https://portfolio-w-react.vercel.app/)
-
-
+<!--[![Header](https://raw.githubusercontent.com/your-username/your-repo-name/master/path/to/header.gif)](https://portfolio-w-react.vercel.app/) !-->
 Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating amazing user experiences. I specialize in Web Development.
 
 ## 🛠️ Skills
