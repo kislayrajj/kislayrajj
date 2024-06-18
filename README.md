@@ -22,10 +22,10 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 
 ### My Projects
 
-[![Portfolio with React](https://img.shields.io/badge/Portfolio_with_React-Explore-blue)](https://portfolio-w-react.vercel.app/)
+![![Portfolio with React](https://img.shields.io/badge/Portfolio_with_React-Explore-blue)](https://portfolio-w-react.vercel.app/)
 - **[Live Demo](https://portfolio-w-react.vercel.app/)** | **[GitHub Repo](https://github.com/kislayrajj/Portfolio-w-React)**
 
-[![DevMen Portfolio](https://img.shields.io/badge/DevMen_Portfolio-Explore-blue)](https://dev-men-portfolio.vercel.app/)
+![![DevMen Portfolio](https://img.shields.io/badge/DevMen_Portfolio-Explore-blue)](https://dev-men-portfolio.vercel.app/)
 - **[Live Demo](https://dev-men-portfolio.vercel.app/)** | **[GitHub Repo](https://github.com/kislayrajj/DevMen-Portfolio)**
 
 
