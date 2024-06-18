@@ -17,8 +17,20 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 
 ## 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kislayrajj)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kislay-raj-b462502a6)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kislayraj751@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kislayrajj)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Kislayrajj)
 
 ⚡ Feel free to reach out if you have any questions or would like to collaborate on a project!
+
+---
+
+### 🌟 Some Cool SVGs:
+
+#### Coding SVG
+```html
+<svg viewBox="0 0 128 128">
+  <path fill="#5A45FF" d="M64 0L128 96H0z"/>
+  <path fill="#FFFFFF" d="M82.286 96l-20.571-32-20.571 32z"/>
+</svg>
