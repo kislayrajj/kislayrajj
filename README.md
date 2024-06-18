@@ -26,11 +26,4 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 
 ---
 
-#### Coding GIF
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-#### Web Development GIF
-![Web Development](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
-
-#### Star GIF
-![Star](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif
