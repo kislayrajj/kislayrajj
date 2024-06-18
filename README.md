@@ -1,6 +1,7 @@
 # Kislay Raj 🧑‍💻
 
-![Header](https://raw.githubusercontent.com/your-username/your-repo-name/master/header.gif)
+[![Header](https://raw.githubusercontent.com/your-username/your-repo-name/master/path/to/header.gif)](https://portfolio-w-react.vercel.app/)
+
 
 Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating amazing user experiences. I specialize in Web Development.
 
@@ -14,6 +15,20 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 ![ShadCN](https://img.shields.io/badge/-ShadCN-38B2AC?style=for-the-badge&logo=shadcn&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Projects I Have Worked On
+- **Clinic Management Software** 
+  - [GitHub Repo](https://github.com/Vedic-Technologies/manipal-client)
+  - Live Demo: [Link](https://manipal-client.vercel.app/)
+  
+#### My Projects 
+- **Portfolios** 
+  - [GitHub Repo](https://github.com/kislayrajj/Portfolio-w-React)
+  - Live Demo: [Link](https://portfolio-w-react.vercel.app/)
+  - [GitHub Repo](https://github.com/kislayrajj/DevMen-Portfolio)
+  - Live Demo: [Link](https://dev-men-portfolio.vercel.app/)
+ - **Others**
+  - Demos: [Link](https://portfolio-w-react.vercel.app/Projects)
 
 ## 📬 Get in Touch
 
