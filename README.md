@@ -19,16 +19,16 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 ## Projects I Have Worked On
 
 ### Clinic Management Software
-[![Clinic Management Software](https://raw.githubusercontent.com/kislayrajj/README-images/main/clinic-management-software.png)](https://manipal-client.vercel.app/)
+[![Clinic Management Software](https://img.shields.io/badge/Clinic_Management_Software-Explore-blue)](https://manipal-client.vercel.app/)
 - **[Live Demo](https://manipal-client.vercel.app/)** | **[GitHub Repo](https://github.com/Vedic-Technologies/manipal-client)**
 
 ### Portfolios
 #### Portfolio with React
-[![Portfolio with React](https://raw.githubusercontent.com/kislayrajj/README-images/main/portfolio-react.png)](https://portfolio-w-react.vercel.app/)
+[![Portfolio with React](https://img.shields.io/badge/Portfolio_with_React-Explore-blue)](https://portfolio-w-react.vercel.app/)
 - **[Live Demo](https://portfolio-w-react.vercel.app/)** | **[GitHub Repo](https://github.com/kislayrajj/Portfolio-w-React)**
 
 #### DevMen Portfolio
-[![DevMen Portfolio](https://raw.githubusercontent.com/kislayrajj/README-images/main/devmen-portfolio.png)](https://dev-men-portfolio.vercel.app/)
+[![DevMen Portfolio](https://img.shields.io/badge/DevMen_Portfolio-Explore-blue)](https://dev-men-portfolio.vercel.app/)
 - **[Live Demo](https://dev-men-portfolio.vercel.app/)** | **[GitHub Repo](https://github.com/kislayrajj/DevMen-Portfolio)**
 
 ### Other Projects
