@@ -1,7 +1,7 @@
 # Kislay Raj 🧑‍💻
 
 Hi there! 👋 I'm Kislay, a passionate web developer who loves creating amazing user experiences. I specialize in Web Development.
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🛠️ Skills
 
@@ -15,7 +15,7 @@ Hi there! 👋 I'm Kislay, a passionate web developer who loves creating amazing
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-<br><br>
+
 
 
 ## Projects I Have Worked On
@@ -25,7 +25,7 @@ Hi there! 👋 I'm Kislay, a passionate web developer who loves creating amazing
 | **[Live Demo](https://manipal-client.vercel.app/)** | **[Live Demo](https://testworld.co.in/)** |
 | **[GitHub Repo](https://github.com/kislayrajj/manipal-client)** | **[GitHub Repo](https://github.com/Vedic-Technologies/online-test)** |
 
-<br><br>
+
 
 
 ## My Projects
@@ -37,7 +37,7 @@ Hi there! 👋 I'm Kislay, a passionate web developer who loves creating amazing
 
 ### Other Projects
 Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
-<br><br>
+
 
 
 ## 📬 Get in Touch
