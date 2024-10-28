@@ -45,11 +45,27 @@ Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayrajj&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kislayrajj&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=kislayrajj&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=kislayrajj&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kislayrajj&theme=github)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kislayrajj&show_icons=true&theme=radical" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kislayrajj&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=kislayrajj&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-![Coding](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
-![Frameworks](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=blue)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=kislayrajj&theme=radical" alt="Trophies" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kislayrajj&theme=github" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
+</table>
