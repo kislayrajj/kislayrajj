@@ -20,17 +20,19 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 
 ## Projects I Have Worked On
 
-### Clinic Management Software
-[![Clinic Management Software](https://img.shields.io/badge/Clinic_Management_Software-Explore-blue)](https://manipal-client.vercel.app/)
-- **[Live Demo](https://manipal-client.vercel.app/)** | **[GitHub Repo](https://github.com/Vedic-Technologies/manipal-client)**
+| [![Clinic Management Software](https://img.shields.io/badge/Clinic_Management_Software-Explore-green)](https://manipal-client.vercel.app/) | [![Test Preparation Platform](https://img.shields.io/badge/Online_Test_Preparation-Explore-green)](https://testworld.co.in/) |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| **[Live Demo](https://manipal-client.vercel.app/)** | **[Live Demo](https://example.com/)** | **[Live Demo](https://testworld.co.in/)** |
+| **[GitHub Repo](https://github.com/kislayrajj/manipal-client)** | **[GitHub Repo](https://github.com/Vedic-Technologies/online-test)** |
+
 
 ### My Projects
 
-[![Portfolio with React](https://img.shields.io/badge/Portfolio_with_React-Explore-blue)](https://portfolio-w-react.vercel.app/)
-- **[Live Demo](https://portfolio-w-react.vercel.app/)** | **[GitHub Repo](https://github.com/kislayrajj/Portfolio-w-React)**
+| [![Portfolio with React](https://img.shields.io/badge/Portfolio_with_React-Explore-orange)](https://portfolio-w-react.vercel.app/) | [![DevMen Portfolio](https://img.shields.io/badge/DevMen_Portfolio-Explore-white)](https://dev-men-portfolio.vercel.app/) | [![EasyM2M Website](https://img.shields.io/badge/EasyM2M-Explore-darkgreen)](https://easy-m2-m.vercel.app/) |
+|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **[Live Demo](https://portfolio-w-react.vercel.app/)** | **[Live Demo](https://dev-men-portfolio.vercel.app/)** | **[Live Demo](https://easy-m2-m.vercel.app/)** |
+| **[GitHub Repo](https://github.com/kislayrajj/Portfolio-w-React)** | **[GitHub Repo](https://github.com/kislayrajj/DevMen-Portfolio)** | **[GitHub Repo](https://github.com/kislayrajj/EasyM2M)** |
 
-[![DevMen Portfolio](https://img.shields.io/badge/DevMen_Portfolio-Explore-blue)](https://dev-men-portfolio.vercel.app/)
-- **[Live Demo](https://dev-men-portfolio.vercel.app/)** | **[GitHub Repo](https://github.com/kislayrajj/DevMen-Portfolio)**
 
 
 ### Other Projects
