@@ -1,7 +1,7 @@
 # Kislay Raj 🧑‍💻
 
-Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating amazing user experiences. I specialize in Web Development.
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Hi there! 👋 I'm Kislay, a passionate web developer who loves creating amazing user experiences. I specialize in Web Development.
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ## 🛠️ Skills
 
@@ -15,6 +15,9 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+<br><br>
+
+
 ## Projects I Have Worked On
 
 | [![Clinic Management Software](https://img.shields.io/badge/Clinic_Management_Software-Explore-green)](https://manipal-client.vercel.app/) | [![Test Preparation Platform](https://img.shields.io/badge/Online_Test_Preparation-Explore-green)](https://testworld.co.in/) |
@@ -22,7 +25,10 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 | **[Live Demo](https://manipal-client.vercel.app/)** | **[Live Demo](https://testworld.co.in/)** |
 | **[GitHub Repo](https://github.com/kislayrajj/manipal-client)** | **[GitHub Repo](https://github.com/Vedic-Technologies/online-test)** |
 
-### My Projects
+<br><br>
+
+
+## My Projects
 
 | [![Portfolio with React](https://img.shields.io/badge/Portfolio_with_React-Explore-orange)](https://portfolio-w-react.vercel.app/) | [![DevMen Portfolio](https://img.shields.io/badge/DevMen_Portfolio-Explore-white)](https://dev-men-portfolio.vercel.app/) | [![EasyM2M Website](https://img.shields.io/badge/EasyM2M-Explore-darkgreen)](https://easy-m2-m.vercel.app/) |
 |-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -31,6 +37,8 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 
 ### Other Projects
 Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
+<br><br>
+
 
 ## 📬 Get in Touch
 
@@ -43,35 +51,12 @@ Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
 
 ---
 
-## 📊 GitHub Stats
+---## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayrajj&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kislayrajj&layout=compact&theme=radical)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kislayrajj&show_icons=true&theme=radical" alt="GitHub stats" width="350" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kislayrajj&layout=compact&theme=radical" alt="Top Languages" width="350" />
-    </td>
-  </tr>
-</table>
+![GitHub Streak](https://streak-stats.demolab.com/?user=kislayrajj&theme=radical)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=kislayrajj&theme=radical" alt="GitHub Streak" width="350" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=kislayrajj&theme=radical" alt="Trophies" width="350" />
-    </td>
-  </tr>
-</table>
+![Trophies](https://github-profile-trophy.vercel.app/?username=kislayrajj&theme=radical)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kislayrajj&theme=github" alt="GitHub Activity Graph" width="800" />
-    </td>
-  </tr>
-</table>
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kislayrajj&theme=github)
