@@ -53,8 +53,16 @@ Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kislayrajj&layout=compact&theme=radical" alt="Top Languages" width="350" />
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td>
       <img src="https://streak-stats.demolab.com/?user=kislayrajj&theme=radical" alt="GitHub Streak" width="350" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=kislayrajj&theme=radical" alt="Trophies" width="350" />
     </td>
   </tr>
 </table>
@@ -62,10 +70,7 @@ Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=kislayrajj&theme=radical" alt="Trophies" width="350" />
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kislayrajj&theme=github" alt="GitHub Activity Graph" width="350" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kislayrajj&theme=github" alt="GitHub Activity Graph" width="800" />
     </td>
   </tr>
 </table>
