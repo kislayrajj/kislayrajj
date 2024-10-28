@@ -3,6 +3,9 @@
 <!--[![Header](https://raw.githubusercontent.com/your-username/your-repo-name/master/path/to/header.gif)](https://portfolio-w-react.vercel.app/) !-->
 Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating amazing user experiences. I specialize in Web Development.
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ## 🛠️ Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,7 +48,6 @@ Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayrajj&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kislayrajj&layout=compact&theme=radical)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kislayrajj&theme=radical)
 
