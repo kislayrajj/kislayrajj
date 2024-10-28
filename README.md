@@ -34,6 +34,10 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
 
 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayrajj&show_icons=true&theme=radical)
+
+
 ## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kislay-raj-b462502a6)
