@@ -51,7 +51,7 @@ Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
 
 ---
 
----## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayrajj&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kislayrajj&layout=compact&theme=radical)
