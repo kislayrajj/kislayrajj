@@ -45,9 +45,11 @@ Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayrajj&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kislayrajj&layout=compact&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kislayrajj&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kislayrajj&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kislayrajj&theme=github)
 ---
 
