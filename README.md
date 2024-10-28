@@ -33,11 +33,6 @@ Hi there! 👋 I'm Kislay, a passionate web developer with a love for creating a
 ### Other Projects
 Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
 
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayrajj&show_icons=true&theme=radical)
-
-
 ## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kislay-raj-b462502a6)
@@ -45,7 +40,14 @@ Check out more demos [here](https://portfolio-w-react.vercel.app/Projects)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kislayrajj)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Kislayrajj)
 
-⚡ Feel free to reach out if you have any questions or would like to collaborate on a project!
+⚡ Feel free to reach out if you have any questions or want to collaborate on a project!
 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayrajj&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kislayrajj&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kislayrajj&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kislayrajj&theme=radical)
 ---
 
