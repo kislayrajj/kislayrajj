@@ -13,6 +13,8 @@ Hi there! 👋 I'm Kislay, a passionate web developer who loves creating amazing
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-61DAFB?style=for-the-badge&logo=python&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
