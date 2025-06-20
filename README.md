@@ -1,6 +1,6 @@
 # Kislay Raj 🧑‍💻
 
-Hi there! 👋 I'm Kislay, a passionate web developer who loves creating amazing user experiences. I specialize in Web Development.
+Hi there! 👋 I'm Kislay, a passionate web developer who loves creating amazing user experiences.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🛠️ Skills
