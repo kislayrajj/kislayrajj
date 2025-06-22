@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=React%20%7C%20Node.js%20%7C%20Python%20%7C%20MongoDB%20%7C%20Machine%20Learning;Building%20AI%20Apps%20%F0%9F%9A%80;Lifelong%20learner%20%F0%9F%92%96" />
 </p>
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ## 🛠️ Skills
 
